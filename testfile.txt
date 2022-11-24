@@ -2,7 +2,3 @@ first string
 second string
 third string
 fourth string
-
-second part
-
-third part
