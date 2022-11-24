@@ -2,4 +2,5 @@ first string
 second string
 third string
 fourth string
-____________________________________
+
+second part
